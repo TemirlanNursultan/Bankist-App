@@ -25,3 +25,4 @@ Users can sort their transaction history by date or amount to easily review thei
 
 Logout Timer:
 For security purposes, the application automatically logs the user out after a period of inactivity.
+You can find DEMO in: https://master--yourbankist-app.netlify.app/
